@@ -1,0 +1,56 @@
+{
+	"info": {
+		"_postman_id": "00e42f80-9c9b-4636-a801-2bcc07a2faeb",
+		"name": "TrelloWeb",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "50231167",
+		"_collection_link": "https://kuchik406-5109198.postman.co/workspace/Kuchi-Kuchi's-Workspace~2926f21a-5516-455a-84dc-08229231df22/collection/50231167-00e42f80-9c9b-4636-a801-2bcc07a2faeb?action=share&source=collection_link&creator=50231167"
+	},
+	"item": [
+		{
+			"name": "ExtraUtility",
+			"item": [
+				{
+					"name": "GetBoardDetails",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "MakeBoard",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "CreateCard",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "UpdateCard",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteCard",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
